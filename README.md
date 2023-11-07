@@ -7,8 +7,8 @@
 ## Social Media
 
 <a href= "https://github.com/Maxiimkka"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github&logoColor=white"></a>
-<a href= "https://www.instagram.com/andr_15_sh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ff0000.svg?style=flat-square&logo=instagram&logoColor=white"></a>
-<a href= "https://vk.com/andr15shev"><img alt="Vkontakte" src="https://img.shields.io/badge/VK-0000ff.svg?style=flat-square&logo=vk&logoColor=white"></a>
+<a href= "https://www.instagram.com/maxiiiik/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ff0000.svg?style=flat-square&logo=instagram&logoColor=white"></a>
+<a href= "https://vk.com/ecswet"><img alt="Vkontakte" src="https://img.shields.io/badge/VK-0000ff.svg?style=flat-square&logo=vk&logoColor=white"></a>
 
 ## 🛠️ My favorite tools
 
